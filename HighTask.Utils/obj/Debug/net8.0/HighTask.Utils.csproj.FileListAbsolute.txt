@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\bin\Debug\net8.0\HighTask.Utils.deps.json
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\bin\Debug\net8.0\HighTask.Utils.dll
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\bin\Debug\net8.0\HighTask.Utils.pdb
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\HighTask.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\HighTask.Utils.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\HighTask.Utils.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\HighTask.Utils.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\HighTask.Utils.dll
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\refint\HighTask.Utils.dll
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\HighTask.Utils.pdb
+C:\Users\User\OneDrive\İş masası\HighTaskPractice\HighTask\HighTask.Utils\obj\Debug\net8.0\ref\HighTask.Utils.dll
